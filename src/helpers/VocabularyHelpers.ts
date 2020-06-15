@@ -20,6 +20,7 @@ export class VocabularyHelpers {
         vocabularies.push({ label: "Robinsono Kruso", description: "(Daniel Defoe), Esperanto", pack: "robinsono_kruso" });
         vocabularies.push({ label: "The Raven", description: "(Edward Allen Poe), English", pack: "the_raven" });
         vocabularies.push({ label: "Tierra y Luna", description: "(Federico García Lorca), Spanish", pack: "tierra_y_luna" });
+        vocabularies.push({ label: "Arabic generator", description: "(Elsenosy), Arabic", pack: "random_arabic" });
 
         return vocabularies;
     }
